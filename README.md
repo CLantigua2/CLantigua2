@@ -18,3 +18,6 @@ I am currently working on an e-commerce project that helps users sell their prod
 - [A How-To Guide On Design for Developers](https://www.singlestoneconsulting.com/blog/a-how-to-guide-on-design-for-developers/)</br>
 - [How to Generate Server-Side PDF Reports With Puppeteer, D3, and Handlebars](https://medium.com/javascript-in-plain-english/how-to-generate-server-side-pdf-reports-with-puppeteer-d3-and-handlebars-97bc8ed38a53)</br>
 - [Choosing a Code BootCamp](https://medium.com/@clantigua954/choosing-a-code-bootcamp-4f9334f71e5c)
+- [NestJS - The Hero Our City Needed](https://medium.com/dev-genius/nestjs-the-hero-our-city-needed-b5fb854ba879)
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=clantigua2&show_icons=true&theme=algolia)](https://github.com/clantigua2/github-readme-stats)
