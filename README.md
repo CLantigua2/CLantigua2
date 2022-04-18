@@ -3,11 +3,16 @@
 
 ## About Me:  :alien:
 I am a FullStack Web and Computer Science alumni at **[Lambda School](https://lambdaschool.com/)**. </br>
-I'm currently working as a Software Developer at **[SingleStone Consulting](https://www.singlestoneconsulting.com/)** located in Richmond, Virginia.
+I'm currently working as a Software Engineer at **[Eventbrite](https://www.eventbrite.com/)**.
 
-I enjoy working in a FrontEnd role using frameworks and libraries like <img src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="30" height="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" width="30" height="30" /> <img src="https://emojis.slackmojis.com/emojis/images/1545071486/5052/ns-angular.png?1545071486" width="30" height="30" />. On my own time I like to play around with mobile app development with Swift and VR game development on Unity. 
+I like to explore technology and I appreciate all of the amazing things we can accomplish for people with it. I enjoy working on an applications UI and diving into ways we can make the internet more accessible to everyone. I often write blog posts about things I play around with or my general experiences working as a Software Engineer at [TheBrownDev.com](https://www.eventbrite.com/), feel free to stop by and have a look.
 
-I am currently working on an e-commerce project that helps users sell their products and remote services in unique ways.
+I'm currently exploring some of the following interests
+* AWS infrastructure and cloud services
+* GoLang (very fun and interesting language)
+* Kotlin (it makes Java fun)
+* DIY projects in the back yard - I like to build poorly planned garden projects
+* Drone photography - I'm still horrible at it <img alt="blob sweat random" title="blob sweat random" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643512993/49350/blob-sweat.gif?1643512993" width="30" height="30">
 
 ## How to reach me
 :pencil:  You can also find me writing at [Medium](https://medium.com/@clantigua954) </br>
