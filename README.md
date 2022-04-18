@@ -5,7 +5,7 @@
 I am a FullStack Web and Computer Science alumni at **[Lambda School](https://lambdaschool.com/)**. </br>
 I'm currently working as a Software Engineer at **[Eventbrite](https://www.eventbrite.com/)**.
 
-I like to explore technology and I appreciate all of the amazing things we can accomplish for people with it. I enjoy working on an applications UI and diving into ways we can make the internet more accessible to everyone. I often write blog posts about things I play around with or my general experiences working as a Software Engineer at [TheBrownDev.com](https://www.eventbrite.com/), feel free to stop by and have a look.
+I like to explore technology and I appreciate all of the amazing things we can accomplish for people with it. I enjoy working on an applications UI and diving into ways we can make the internet more accessible to everyone. I often write blog posts about things I play around with or my general experiences working as a Software Engineer at [TheBrownDev.com](https://www.thebrowndev.com/), feel free to stop by and have a look.
 
 I'm currently exploring some of the following interests
 * AWS infrastructure and cloud services
